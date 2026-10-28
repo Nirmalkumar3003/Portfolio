@@ -2,7 +2,7 @@ export const LINKS = {
   email: "nirmalmahendran3003@gmail.com",
   linkedin: "https://www.linkedin.com/in/nirmalkumar-m-bb9931257",
   github: "https://github.com/Nirmalkumar3003",
-  resume: "https://drive.google.com/file/d/1xfC0kmLmi-GF5S89mrtmoVuL4UdsDXyY/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1SBFi49D69duFysH-I2UD1PQa2svJIeYN/view?usp=sharing",
 };
 
 /** [use, workflow, related projects] */
